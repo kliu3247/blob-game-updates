@@ -1,8 +1,5 @@
-# kelly game working a bit
+#The Blob Game
 
-hi kelly, this works, esp compare the image loading to yours, notice I load the images in Game and then pass them
-in to the classes that need them.
+A game I built in electrocrafting 173 - has controls to move the character around and game objective is to gain as many coins as possible without getting hit by a rock! Good luck :)
 
-you could also load them in the classes, but don't load them both places!
-
-also, note the other stuff I said in the email.
+*all graphics designed by me (except the coin and rock). 
